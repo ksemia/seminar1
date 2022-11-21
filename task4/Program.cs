@@ -6,10 +6,11 @@ Console.Write("введите число N: ");
 int N = int.Parse(Console.ReadLine());
 int i = 1; 
 
-for(i <= N; i++;)
+for(int i = 1; i <= N; i++;)
 {
 if(i % 2 == 0) 
 {
-    Console.WriteLine("i = ");
+    Console.WriteLine("i");
 }
 }
+// выдает ошибку в синтаксисе, но я не понимаю что исправить
