@@ -2,15 +2,30 @@
 // 5 -> 2, 4
 // 8 -> 2, 4, 6, 8
 
-Console.Write("введите число N: ");
-int N = int.Parse(Console.ReadLine());
-int i = 1; 
 
-for(int i = 1; i <= N; i++;)
+// вар 1, работает, но некорректно, выдает 8 и i,i,i,i
+
+// Console.WriteLine("введите число: ");
+//int n = Convert.ToInt32(Console.ReadLine());
+
+//for(int i = 1; i <= n; i++)
+//{
+//if(i % 2 == 0) 
+//{
+//    Console.WriteLine("i");
+//}
+//}
+
+//вариант 2, рабочий!!!
+
+Console.WriteLine("введите число: ");
+string s = Console.ReadLine();
+int n = Convert.ToInt32(s);
+
+for(int i = 1; i <= n; i++)
 {
 if(i % 2 == 0) 
 {
-    Console.WriteLine("i");
+    Console.WriteLine(i.ToString());
 }
 }
-// выдает ошибку в синтаксисе, но я не понимаю что исправить
