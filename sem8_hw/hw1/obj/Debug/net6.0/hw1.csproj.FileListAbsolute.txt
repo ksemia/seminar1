@@ -1,0 +1,15 @@
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\hw1.csproj.AssemblyReference.cache
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\hw1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\hw1.AssemblyInfoInputs.cache
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\hw1.AssemblyInfo.cs
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\hw1.csproj.CoreCompileInputs.cache
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\bin\Debug\net6.0\hw1.exe
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\bin\Debug\net6.0\hw1.deps.json
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\bin\Debug\net6.0\hw1.runtimeconfig.json
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\bin\Debug\net6.0\hw1.dll
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\bin\Debug\net6.0\hw1.pdb
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\hw1.dll
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\refint\hw1.dll
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\hw1.pdb
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\hw1.genruntimeconfig.cache
+C:\Users\kseni\OneDrive\Рабочий стол\C_code_seminar1\sem8_hw\hw1\obj\Debug\net6.0\ref\hw1.dll
